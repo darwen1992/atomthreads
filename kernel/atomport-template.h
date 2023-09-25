@@ -32,7 +32,7 @@
 
 
 /* Required number of system ticks per second (normally 100 for 10ms tick) */
-#define SYSTEM_TICKS_PER_SEC            100
+#define SYSTEM_TICKS_PER_SEC            12
 
 /**
  * Definition of NULL.
